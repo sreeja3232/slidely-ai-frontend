@@ -70,31 +70,29 @@ Contributions are always welcome! To get started:
 
 2. **Clone your fork:**
    sh
-   git clone https://github.com/your-username/slidely-ai-frontend.git
+   git clone https://github.com/sreeja3232/slidely-ai-frontend.git
    
 
-3. **Create a branch:**
+4. **Create a branch:**
    sh
    git checkout -b feature/your-feature
    
 
-4. **Make your changes and commit them:**
+5. **Make your changes and commit them:**
    sh
    git commit -m 'Add some feature'
    
 
-5. **Push to the branch:**
+6. **Push to the branch:**
    sh
    git push origin feature/your-feature
    
 
-6. **Open a pull request:**
+7. **Open a pull request:**
    - Navigate to your fork on GitHub.
    - Click the "New pull request" button.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contact
 
