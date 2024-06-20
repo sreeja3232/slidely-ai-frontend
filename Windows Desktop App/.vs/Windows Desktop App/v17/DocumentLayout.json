@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sreeja reddy\\source\\repos\\Final Desktop App\\frontend\\Windows Desktop App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{415ECCD5-88F2-43F5-B0F9-301458D5D242}|Windows Desktop App\\Windows Desktop App.vbproj|C:\\Users\\sreeja reddy\\source\\repos\\Final Desktop App\\frontend\\Windows Desktop App\\windows desktop app\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{415ECCD5-88F2-43F5-B0F9-301458D5D242}|Windows Desktop App\\Windows Desktop App.vbproj|solutionrelative:windows desktop app\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415ECCD5-88F2-43F5-B0F9-301458D5D242}|Windows Desktop App\\Windows Desktop App.vbproj|C:\\Users\\sreeja reddy\\source\\repos\\Final Desktop App\\frontend\\Windows Desktop App\\windows desktop app\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{415ECCD5-88F2-43F5-B0F9-301458D5D242}|Windows Desktop App\\Windows Desktop App.vbproj|solutionrelative:windows desktop app\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415ECCD5-88F2-43F5-B0F9-301458D5D242}|Windows Desktop App\\Windows Desktop App.vbproj|c:\\users\\sreeja reddy\\source\\repos\\final desktop app\\frontend\\windows desktop app\\windows desktop app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{415ECCD5-88F2-43F5-B0F9-301458D5D242}|Windows Desktop App\\Windows Desktop App.vbproj|solutionrelative:windows desktop app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415ECCD5-88F2-43F5-B0F9-301458D5D242}|Windows Desktop App\\Windows Desktop App.vbproj|C:\\Users\\sreeja reddy\\source\\repos\\Final Desktop App\\frontend\\Windows Desktop App\\windows desktop app\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{415ECCD5-88F2-43F5-B0F9-301458D5D242}|Windows Desktop App\\Windows Desktop App.vbproj|solutionrelative:windows desktop app\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415ECCD5-88F2-43F5-B0F9-301458D5D242}|Windows Desktop App\\Windows Desktop App.vbproj|C:\\Users\\sreeja reddy\\source\\repos\\Final Desktop App\\frontend\\Windows Desktop App\\windows desktop app\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{415ECCD5-88F2-43F5-B0F9-301458D5D242}|Windows Desktop App\\Windows Desktop App.vbproj|solutionrelative:windows desktop app\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sreeja reddy\\source\\repos\\Final Desktop App\\frontend\\Windows Desktop App\\Windows Desktop App\\Form1.vb",
+              "RelativeDocumentMoniker": "Windows Desktop App\\Form1.vb",
+              "ToolTip": "C:\\Users\\sreeja reddy\\source\\repos\\Final Desktop App\\frontend\\Windows Desktop App\\Windows Desktop App\\Form1.vb [Design]",
+              "RelativeToolTip": "Windows Desktop App\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T18:06:41.337Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sreeja reddy\\source\\repos\\Final Desktop App\\frontend\\Windows Desktop App\\Windows Desktop App\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "Windows Desktop App\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\sreeja reddy\\source\\repos\\Final Desktop App\\frontend\\Windows Desktop App\\Windows Desktop App\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "Windows Desktop App\\ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T09:30:10.367Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\sreeja reddy\\source\\repos\\Final Desktop App\\frontend\\Windows Desktop App\\Windows Desktop App\\App.config",
+              "RelativeDocumentMoniker": "Windows Desktop App\\App.config",
+              "ToolTip": "C:\\Users\\sreeja reddy\\source\\repos\\Final Desktop App\\frontend\\Windows Desktop App\\Windows Desktop App\\App.config",
+              "RelativeToolTip": "Windows Desktop App\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-20T09:20:06.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSubmissionForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\sreeja reddy\\source\\repos\\Final Desktop App\\frontend\\Windows Desktop App\\Windows Desktop App\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "Windows Desktop App\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\sreeja reddy\\source\\repos\\Final Desktop App\\frontend\\Windows Desktop App\\Windows Desktop App\\CreateSubmissionForm.vb [Design]",
+              "RelativeToolTip": "Windows Desktop App\\CreateSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T09:20:04.438Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\sreeja reddy\\source\\repos\\Final Desktop App\\frontend\\Windows Desktop App\\Windows Desktop App\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "Windows Desktop App\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\sreeja reddy\\source\\repos\\Final Desktop App\\frontend\\Windows Desktop App\\Windows Desktop App\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "Windows Desktop App\\ViewSubmissionsForm.vb",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T09:32:12.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
